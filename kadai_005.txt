@@ -22,3 +22,9 @@ PS B:\Project sample\git_challenge> git commit -m "こんにちわ、世界！�
 [main 007446f] こんにちわ、世界！を追加
  1 file changed, 0 insertions(+), 0 deletions(-)
 PS B:\Project sample\git_challenge> git status
+
+PS B:\Project sample\git_challenge> git log --oneline
+007446f (HEAD -> main) こんにちわ、世界！を追加
+77d0547 hello_world.txtを追加
+267c6f2 ファイルを削除
+fada1b8 hello_world.txtを追加
